@@ -1,0 +1,1 @@
+ public static final transient char INTEGRACAO_{nomeConstanteInseridaIntegracao} = '{codigoIntegracao}';
